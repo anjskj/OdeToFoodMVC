@@ -1,0 +1,7 @@
+* Start the project
+Create an empty solution
+Add asp.net web applicatio  (.Net Framework)
+Build the project: ctrl+shift+b
+Start without the debugger: ctrl+F5 IF you get a security page, accept the risk to continue.
+Create a new project for datarelated abstractions in a class library(.Net Framework)
+	- create restaurant class and services
